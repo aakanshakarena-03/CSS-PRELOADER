@@ -1,0 +1,45 @@
+.nav{
+    position: fixed;
+    top:0px;
+    left:0px;
+    background-color:rgba(245,245,245,0.5);
+    color:black ;
+    /* font-family: sans-serif; */
+    font-size: 30px;
+    width: 100%;
+    font-weight: 100;
+    padding-left: 620px;
+    padding-top: 10px;
+}
+#div1{    
+    background-color: rgba(23, 244, 226, 0.705);
+    position: relative;
+}
+#div2{
+    background-color: rgba(43, 48, 47, 0.705);
+    position: relative;
+}
+#div3{
+    background-color: rgb(254, 185, 56);
+    position: relative;
+}
+#div4{
+    background-color: rgb(248, 49, 158);
+    position: relative;            
+}
+#div5{
+    background-color:navy;
+    position: relative;
+}
+#div6{
+    background-color:rgb(7, 241, 249); 
+    position: relative;           
+}
+#div7{
+    background-color:rgb(233, 249, 7);
+    position: relative;
+}
+#div8{
+    background-color:blueviolet;
+    position: relative;
+}
